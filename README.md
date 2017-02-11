@@ -1,6 +1,27 @@
-# Request Header Parser Microservice
-#### A FreeCodeCamp Project
+Welcome to the Gomix BETA
+=========================
 
-Navigate to [who-am-i.gomix.me/api/whoami](https://who-am-i.gomix.me/api/whoami) to see information about your browser.
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-See requirements about this project on [FreeCodeCamp](https://www.freecodecamp.com/challenges/request-header-parser-microservice).
+Gomix is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
+
+[About Gomix](https://gomix.com/about)
+
+
+Your Project
+------------
+
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env`
+
+On the front-end,
+- edit `client.js`, `style.css` and `index.html`
+- drag in `assets`, like images or music, to add them to your project
+
+
+Made by Fog Creek
+-----------------
+
+\ ゜o゜)ノ
